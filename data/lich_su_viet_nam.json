@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "evt_1795752741692",
+    "categoryId": "cat_1795752573008",
+    "title": "Nhà Đinh",
+    "summary": "Nhà Đinh (chữ Nôm: 茹丁, chữ Hán: 丁朝, Hán Việt: Đinh triều) là triều đại quân chủ phong kiến trong lịch sử Việt Nam bắt đầu năm 968, sau khi Đinh Tiên Hoàng dẹp xong loạn 12 sứ quân thống nhất đất nước và kết thúc năm 980 khi con của Đinh Tiên Hoàng là Đinh Phế Đế nhường ngôi cho Lê Hoàn.\nNhà Đinh là triều đại mở đầu chế độ phong kiến tập quyền và thời kỳ tự chủ với một chế độ đứng đầu bởi một Hoàng đế của nước Việt Nam.",
+    "content": "Nhà Đinh (chữ Nôm: 茹丁, chữ Hán: 丁朝, Hán Việt: Đinh triều) là triều đại quân chủ phong kiến trong lịch sử Việt Nam bắt đầu năm 968, sau khi Đinh Tiên Hoàng dẹp xong loạn 12 sứ quân thống nhất đất nước và kết thúc năm 980 khi con của Đinh Tiên Hoàng là Đinh Phế Đế nhường ngôi cho Lê Hoàn.\nNhà Đinh là triều đại mở đầu chế độ phong kiến tập quyền và thời kỳ tự chủ với một chế độ đứng đầu bởi một Hoàng đế của nước Việt Nam. Vương triều nhà Đinh đã mở nền chính thống cho thời đại phong kiến độc lập cho nên trong các bộ chính sử kể từ Đại Việt sử ký toàn thư thế kỷ XV, Đại Việt sử ký tiền biên thế kỷ XVIII đến Khâm định Việt sử thông giám cương mục thế kỷ XIX thì triều đại này đều được các tác giả lấy làm mốc mở đầu phần Bản kỷ hoặc Chính biên. Tiếp đến, việc xưng đế hiệu Đại Thắng Minh Hoàng đế của Đinh Tiên Hoàng mang ý thức lớn về sự tự tôn của nước Việt, có hàm ý so sánh với các Hoàng đế Trung Hoa.",
+    "startDate": {
+      "year": 968
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vietnam_%281009-1225%29.png?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=original",
+    "wikipediaUrl": "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%90inh",
+    "tags": []
+  }
+]
