@@ -1,5 +1,21 @@
 [
   {
+    "id": "evt_1795753978129",
+    "categoryId": "cat_1795752573008",
+    "title": "Ngô Quyền",
+    "summary": "Ngô Quyền (chữ Hán: 吳權; 17 tháng 4 năm 898 – 14 tháng 2 năm 944), khi xưng vương gọi là Tiền Ngô Vương (Chữ Hán:前吳王) là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam.",
+    "content": "Ngô Quyền (chữ Hán: 吳權; 17 tháng 4 năm 898 – 14 tháng 2 năm 944), khi xưng vương gọi là Tiền Ngô Vương (Chữ Hán:前吳王) là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng, chính thức kết thúc gần một ngàn năm Bắc thuộc, mở ra một thời kì độc lập lâu dài của Việt Nam. Sau chiến thắng này, ông lên ngôi vua, lập ra nhà Ngô, trị vì từ năm 939 đến năm 944.\nNgô Quyền nằm trong danh sách mười bốn anh hùng dân tộc Việt Nam. Phan Bội Châu xem ông là vị Tổ Trung hưng của Việt Nam.",
+    "startDate": {
+      "year": 898
+    },
+    "endDate": {
+      "year": 14
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/T%C6%B0%E1%BB%A3ng_Ng%C3%B4_Quy%E1%BB%81n.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=original",
+    "wikipediaUrl": "https://vi.wikipedia.org/wiki/Ng%C3%B4_Quy%E1%BB%81n",
+    "tags": []
+  },
+  {
     "id": "evt_1795752741692",
     "categoryId": "cat_1795752573008",
     "title": "Nhà Đinh",
